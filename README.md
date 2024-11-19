@@ -1,9 +1,9 @@
 "# User_Management" 
 /user-registration
-  ├── index.html
-  ├── style.css
-  ├── app.js
-  ├── server.js
+  index.html
+  style.css
+  app.js
+  server.js
 
 A simple API built using server.js that supports CRUD operations for managing user data. This API serves as the backend for a user registration application.
 
